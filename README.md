@@ -10,3 +10,11 @@ Reading a  temperature from a connected sensor every 5 seconds, then display it 
 3 - Install Stm32cube IDE:https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software
 
 Note: You should create ST account before downloading software !
+
+Required HW:
+1-Stm32f4 /or f3 
+2- I2C LCD
+http://www.handsontec.com/dataspecs/module/I2C_1602_LCD.pdf
+
+3- MCP9808 sensor.
+https://pdf1.alldatasheet.com/datasheet-pdf/view/470721/MICROCHIP/MCP9808.html
